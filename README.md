@@ -1,2 +1,2 @@
 # BOJ_python
-BOJ in python..
+BOJ (Baekjoon Online Judge) in python..

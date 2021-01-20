@@ -14,3 +14,7 @@ for i in range(2, int(math.sqrt(n)+1)):
 for i in range(m,n+1):
     if(arr[i]==True):
         print(i)
+'''
+Difficulty : S5
+에라토스테네스의 체 연습 문제
+'''
